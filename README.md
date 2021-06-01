@@ -5,7 +5,7 @@
 ### Here's a few bits about me:
 
 - 🔭 I’m currently working on **growing my portfolio**
-- 🌱 I’m currently learning **javascript** and package management
+- 🌱 I’m currently learning **DOM Manipulation**
 - 👯 I’m looking to collaborate on open source projects of course!
 - 🤔 I’m looking for help with anything related to terminal, virtual environments, and configuring project dependencies
 - 💬 Ask me about anything you like!
