@@ -4,10 +4,10 @@
 -->
 ### Here's a few bits about me:
 
-- 🔭 I’m currently working on **growing my portfolio**
-- 🌱 I’m currently learning **DOM Manipulation**
-- 👯 I’m looking to collaborate on open source projects of course!
-- 🤔 I’m looking for help with anything related to terminal, virtual environments, and configuring project dependencies
+- 🔭 I’m currently working on **growing my design portfolio & making more advanced applications**
+- 🌱 I’m currently learning **Svelte and PHP (CodeIgniter framework)**
+- 👯 I’m looking to collaborate on open source projects involving UI design and front-end js frameworks.
+- 🤔 I’m looking for help with anything related to MVC, UX, or Jira
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: Tweet me! [@ImThatBenjamin](https://twitter.com/ImThatBenjamin)
 - 😄 Pronouns: He / Him
