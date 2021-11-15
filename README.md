@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects involving UI design and front-end js frameworks.
 - 🤔 I’m looking for help with anything related to MVC, UX, or Jira
 - 💬 Ask me about anything you like!
-- 📫 How to reach me: Tweet me! [@ImThatBenjamin](https://twitter.com/ImThatBenjamin)
+- 📫 How to reach me: Tweet me! [@benbrom_](https://twitter.com/benbrom_)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm also a grade 8 trombonist, a pianist, organist, and bass/tenor singer!
 
