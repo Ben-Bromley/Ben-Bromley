@@ -5,7 +5,7 @@
 ### Here's a few bits about me:
 
 - 🔭 I’m currently working on **growing my design portfolio & making more advanced applications**
-- 🌱 I’m currently learning **Svelte and PHP (CodeIgniter framework)**
+- 🌱 I’m currently learning **PHP (Laravel) & NEXT.js**
 - 👯 I’m looking to collaborate on open source projects involving UI design and front-end js frameworks.
 - 🤔 I’m looking for help with anything related to MVC, UX, or Jira
 - 💬 Ask me about anything you like!
