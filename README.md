@@ -2,7 +2,7 @@
 <!--
 **Ben-Bromley/Ben-Bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Here's a few bits about me:
+## Here's a few bits about me:
 
 - 🔭 I’m currently working on **growing my design portfolio & making more advanced applications**
 - 🌱 I’m currently learning **PHP (Laravel) & NEXT.js**
@@ -11,7 +11,9 @@
 - 📫 How to reach me: Tweet me! [@benbrom_](https://twitter.com/benbrom_)
 - ⚡ Fun fact: I'm also a grade 8 trombonist, a pianist, organist, and bass/tenor singer!
 
-### 🛠️ My Languages and Tools:
+#
+
+## 🛠️ My Languages and Tools:
 
 <code><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -23,5 +25,10 @@
 <code><img height="30" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
+
+![Hello](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)
+
 
 ### Have a browse!
