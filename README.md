@@ -36,7 +36,7 @@
 
 ## 📱 Connect with me  
 
-<div align="center" style="margin-top: 15px;">
+<div style="margin-top: 15px;">
 <a href="https://github.com/ben-bromley" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
