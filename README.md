@@ -9,9 +9,6 @@
 - ⚡ Fun fact: I'm also a trombonist, a pianist, and sing tenor in a choir!
 
 
-<br />
-
-
 ## 🛠️ My Languages, Frameworks and Tools:
 <section>
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
@@ -58,11 +55,7 @@
 
 ![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)
 
-
 <!-- ![Ben's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bromley&layout=compact&theme=vue-dark) -->
-
-<br />
-
 
 ### Have a browse!
 Feel free to get in touch with me about any of my projects :)
