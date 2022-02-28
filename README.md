@@ -13,10 +13,7 @@
 
 
 ## 🛠️ My Languages, Frameworks and Tools:
-<table><tr><td width="100%">
-
-
-<div align="center">  
+<section>
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
@@ -32,9 +29,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />  
-</div>
-
-</td></tr></table>  
+ </section>
 
 <br/>  
 
