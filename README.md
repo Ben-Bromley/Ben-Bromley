@@ -3,13 +3,9 @@
 ## Here's a few bits about me:
 
 - 🔭 I’m currently working on **growing my design portfolio & developing more advanced applications**
-
 - 🌱 I’m currently learning **PHP (Laravel) & Vue.js**
-
 - 👯 I’m looking to collaborate on open source projects involving progressive UI design and front-end JavaScript frameworks.
-
 - 📫 You can reach me on [Twitter](https://twitter.com/benbrom_) and [LinkedIn](https://www.linkedin.com/in/ben-bromley/)
-
 - ⚡ Fun fact: I'm also a trombonist, a pianist, and sing tenor in a choir!
 
 
@@ -60,14 +56,12 @@
 
 <br />
 
-## 📊 My GitHub Stats
-<br />
-
 ![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)
 
 
 <!-- ![Ben's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bromley&layout=compact&theme=vue-dark) -->
 
+<br />
 
 
 ### Have a browse!
