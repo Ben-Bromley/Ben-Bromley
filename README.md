@@ -1,34 +1,76 @@
 # Hi there, I'm Ben Bromley 👋
-<!--
-**Ben-Bromley/Ben-Bromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 ## Here's a few bits about me:
 
-- 🔭 I’m currently working on **growing my design portfolio & making more advanced applications**
-- 🌱 I’m currently learning **PHP (Laravel) & NEXT.js**
-- 👯 I’m looking to collaborate on open source projects involving UI design and front-end js frameworks.
-- 🤔 I’m looking for help with anything related to MVC, UI/UX, modern JS frameworks
-- 📫 How to reach me: Tweet me! [@benbrom_](https://twitter.com/benbrom_)
-- ⚡ Fun fact: I'm also a grade 8 trombonist, a pianist, organist, and bass/tenor singer!
+- 🔭 I’m currently working on **growing my design portfolio & developing more advanced applications**
+- 🌱 I’m currently learning **PHP (Laravel) & Vue.js**
+- 👯 I’m looking to collaborate on open source projects involving progressive UI design and front-end JavaScript frameworks.
+- 📫 You can reach me on [Twitter](https://twitter.com/benbrom_) and [LinkedIn](https://www.linkedin.com/in/ben-bromley/)
+- ⚡ Fun fact: I'm also a trombonist, a pianist, and sing tenor in a choir!
 
-#
-
-## 🛠️ My Languages and Tools:
-
-<code><img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
 
-![Hello](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)
+
+## 🛠️ My Languages, Frameworks and Tools:
+<table><tr><td width="100%">
+
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## 📱 Connect with me  
+
+<div align="center" style="margin-top: 15px;">
+<a href="https://github.com/ben-bromley" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/benbrom_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ben-bromley" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/benbromley" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@benbrom_" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<br />
+
+## 📊 My GitHub Stats
+<br />
+
+![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)
+
+
+<!-- ![Ben's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bromley&layout=compact&theme=vue-dark) -->
+
 
 
 ### Have a browse!
+Feel free to get in touch with me about any of my projects :)
+
