@@ -53,7 +53,7 @@
 
 <br />
 
-[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)]()
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bromley&count_private=true&hide=stars&theme=vue-dark)](https://github.com/Ben-Bromley)
 
 <!-- ![Ben's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bromley&layout=compact&theme=vue-dark) -->
 
