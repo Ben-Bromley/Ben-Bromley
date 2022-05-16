@@ -2,8 +2,8 @@
 
 ## Here's a few bits about me:
 
-- 🔭 I’m currently working on **growing my design portfolio & developing more advanced applications**
-- 🌱 I’m currently learning **PHP (Laravel) & Vue.js**
+- 🔭 I’m currently working on **growing my design portfolio & developing more advanced CRUD web-based applications**
+- 🌱 I’m currently learning **PHP (Laravel)**
 - 👯 I’m looking to collaborate on open source projects involving progressive UI design and front-end JavaScript frameworks.
 - 📫 You can reach me on [Twitter](https://twitter.com/benbrom_) and [LinkedIn](https://www.linkedin.com/in/ben-bromley/)
 - ⚡ Fun fact: I'm also a trombonist, a pianist, and sing tenor in a choir!
