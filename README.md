@@ -2,11 +2,11 @@
 
 ## Here's a few bits about me:
 
-- 🔭 I’m currently working on **growing my design portfolio & developing more advanced CRUD web-based applications**
-- 🌱 I’m currently learning **PHP (Laravel)**
+- 🔭 I’m currently working on **developing more advanced CRUD web-based applications using Typescript-React**
+- 🌱 I’m currently learning **Audio Manipulation & Analysis with Python**
 - 👯 I’m looking to collaborate on open source projects involving progressive UI design and front-end JavaScript frameworks.
-- 📫 You can reach me on [Twitter](https://twitter.com/benbrom_) and [LinkedIn](https://www.linkedin.com/in/ben-bromley/)
-- ⚡ Fun fact: I'm also a trombonist, a pianist, and sing tenor in a choir!
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ben-bromley/)
+- ⚡ Fun fact: I'm also a trombone & piano player, studying Music Technology BA Hons at the University Of Nottingham
 
 
 ## 🛠️ My Languages, Frameworks and Tools:
@@ -31,24 +31,11 @@
 <br/>  
 
 
-## 📱 Connect with me  
+## 📱 Find me on other platforms
 
 <div style="margin-top: 15px;">
-<a href="https://github.com/ben-bromley" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/benbrom_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ben-bromley" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/benbromley" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@benbrom_" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+<a href="https://linkedin.com/in/ben-bromley" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://dribbble.com/benbromley" target="_blank"><img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" /></a>
 </div>
 
 <br />
